@@ -7,5 +7,7 @@ This repository was created as a place to host my data projects and to serve as 
 My CV in PDF.
 
 MyAnimeList EDA.
-This is my first ever project using scraped data from myanimelist.net, and downloaded from kaggle. As my first project,
-I thought that I should use data that I am interested about to get started, 
+
+This is my first ever project using scraped data from myanimelist.net, and downloaded from kaggle. To get started on my first project,
+I thought that I should use a dataset that I am passionate about, or at least interested in, which is anime. This project contains some
+data cleaning and wrangling using Pandas, and simple visualizations using Seaborn.
