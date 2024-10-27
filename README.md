@@ -8,14 +8,35 @@ My [CV] in PDF.
 
 ## Data Projects:
 ### [Most Recommended Title According to MyAnimeList](https://github.com/hatarakris/Data-Projects/blob/main/anime_EDA.ipynb)
-This is my first ever project using scraped data from myanimelist.net that I downloaded from kaggle. To get started on my first project,
-I thought that I should use a dataset that I am passionate about, or at least interested in, which is anime. This project contains some
-data cleaning and wrangling using Pandas, and simple visualizations using Seaborn.
+**Description**: This project analysed anime titles from the 1920s to early 2024 that are recorded in myanimelist.net website in which users can
+review, rate, and recommend titles. The dataset contains said metrics and other data such as aired date, producers, licensors, studio, source type,
+genres, themes, and demographics. This project aimed to determine what is the most recommended title based on most recommended categories and gain other
+insights from visualizations.
+
+**Skills**: Data Cleaning, Data Wrangling, Data Visualization.
+
+**Tools**: Pandas, Matplotlib, Seaborn.
 
 ### [Airlines EDA](https://github.com/hatarakris/Data-Projects/blob/main/airlines.ipynb)
-In this project, I explored flight data from popular airlines in India and find out whether there are any differences in ticket prices
-according to flight class, departure city, etc. I used Seaborn to make simple visualizations and gain some insights from the data.
+**Description**: This project analysed flight data from popular airlines in India and aimed to examine the differences in ticket price based on
+different airlines, flight class, flight duration, etc.
+
+**Skills**: Data Analysis, Data Visualization.
+
+**Tools**: Pandas, Matplotlib, Seaborn.
 
 ### [Covid-19 Data Exploration](https://github.com/hatarakris/Data-Projects/blob/main/covid-data-exploration.sql)
+**Description**: This project used dataset that contains Covid-19 cases around the world from 2020 to 2021. In this project we
+explored total deaths and vaccinations per day, total deaths and vaccinations percentage, etc.
+
+**Skills**: Aggregate Functions, Joins, Common Table Expression, Views, Converting Data Types, Temp Table.
+
+**Tools**: DBeaver, SQLite.
 
 ### [British Airways Review](https://public.tableau.com/app/profile/kristoforus.nugrahanto/viz/BritishAirwaysReview_17299539842700/Dashboard1?publish=yes)
+**Description**: This Tableau project analysed British Airways review data and made an interactive dashboard out of it. The dashboard contains parameters, 
+geographical data, average by month, and average by aircraft model.
+
+**Skills**: Data Visualization, Parameters.
+
+**Tools**: Tableau.
