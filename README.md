@@ -4,7 +4,7 @@ Hello, I'm Kristoforus Nugrahanto. For the past few months, I've been learning d
 I am a complete beginner in coding and I have little to no experience in data analytics, but I feel eager to learn more about this field. 
 This repository was created as a place to host my data projects and to serve as my portfolio.
 
-My [CV] in PDF.
+My [CV](https://github.com/hatarakris/Data-Projects/blob/main/Resume_Kristoforus%20Nugrahanto.pdf) in PDF.
 
 ## Data Projects:
 ### [Most Recommended Title According to MyAnimeList](https://github.com/hatarakris/Data-Projects/blob/main/anime_EDA.ipynb)
