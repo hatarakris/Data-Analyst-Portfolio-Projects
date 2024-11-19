@@ -4,16 +4,16 @@ Hello, I'm Kristoforus Nugrahanto. For the past few months, I've been learning d
 I am a complete beginner in coding and I have little to no experience in data analytics, but I feel eager to learn more about this field. 
 This repository was created as a place to host my data projects and to serve as my portfolio.
 
-My [CV](https://github.com/hatarakris/Data-Projects/blob/main/Resume_Kristoforus%20Nugrahanto.pdf) in PDF.
+My [CV in PDF](https://github.com/hatarakris/Data-Projects/blob/main/Resume_Kristoforus%20Nugrahanto.pdf)
 
-My [Tableau](https://public.tableau.com/app/profile/kristoforus.nugrahanto/vizzes) profile.
+My [Tableau vizzes](https://public.tableau.com/app/profile/kristoforus.nugrahanto/vizzes)
 
 ## Data Projects:
 ### [Most Recommended Title According to MyAnimeList](https://github.com/hatarakris/Data-Projects/blob/main/anime_EDA.ipynb)
-**Description**: This project analysed anime titles from the 1920s to early 2024 that are recorded in myanimelist.net website in which users can
-review, rate, and recommend titles. The dataset contains said metrics and other data such as aired date, producers, licensors, studio, source type,
-genres, themes, and demographics. This project aimed to determine what is the most recommended title based on most recommended categories and gain other
-insights from visualizations.
+**Description**: This project analysed anime titles from the 1920s to early 2024 that are recorded in the myanimelist.net website, in which the users can
+review, rate, and recommend any title. The dataset contains information such as Japanese and English title, broadcast type, episodes, airing status, date aired, date premiered,
+producers, licensors, studios, source type, genres, themes, and demographics. This project aimed to determine what is the most recommended title based on the most recommended 
+categories and gain other insights from visualizing the data.
 
 **Skills**: Data Cleaning, Data Wrangling, Data Visualization.
 
@@ -21,7 +21,8 @@ insights from visualizations.
 
 ### [Airlines EDA](https://github.com/hatarakris/Data-Projects/blob/main/airlines.ipynb)
 **Description**: This project analysed flight data from popular airlines in India and aimed to examine the differences in ticket price based on
-different airlines, flight class, flight duration, etc.
+different airlines, flight class, flight duration, etc. This dataset contains information such as airline name, flight id, departure city, destination city,
+amount of stops, time of arrival, flight class, flight duration, days left until departure, and ticket price.
 
 **Skills**: Data Analysis, Data Visualization.
 
