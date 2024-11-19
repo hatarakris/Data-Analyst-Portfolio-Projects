@@ -6,6 +6,8 @@ This repository was created as a place to host my data projects and to serve as 
 
 My [CV](https://github.com/hatarakris/Data-Projects/blob/main/Resume_Kristoforus%20Nugrahanto.pdf) in PDF.
 
+My [Tableau](https://public.tableau.com/app/profile/kristoforus.nugrahanto/vizzes) profile.
+
 ## Data Projects:
 ### [Most Recommended Title According to MyAnimeList](https://github.com/hatarakris/Data-Projects/blob/main/anime_EDA.ipynb)
 **Description**: This project analysed anime titles from the 1920s to early 2024 that are recorded in myanimelist.net website in which users can
@@ -32,11 +34,3 @@ explored total deaths and vaccinations per day, total deaths and vaccinations pe
 **Skills**: Aggregate Functions, Joins, Common Table Expression, Views, Converting Data Types, Temp Table.
 
 **Tools**: DBeaver, SQLite.
-
-### [British Airways Review](https://public.tableau.com/app/profile/kristoforus.nugrahanto/viz/BritishAirwaysReview_17299539842700/Dashboard1?publish=yes)
-**Description**: This Tableau project analysed British Airways review data and made an interactive dashboard out of it. The dashboard contains parameters, 
-geographical data, average by month, and average by aircraft model.
-
-**Skills**: Data Visualization, Parameters.
-
-**Tools**: Tableau.
